@@ -1,6 +1,10 @@
+* cancel all ( all | ask | bid )
+
 (01:08) <       c_k> the one feature that would be nice for me is the ability to cancel all orders
 (01:08) <       c_k> instead of having to read the list of open orders and cancel them individually
 (01:16) <       c_k> like "cancel ask *" I guess
 (01:16) <       c_k> anyway, very cool :)
+
+* better depth display (  column, colors, rounding ) 
 
 
